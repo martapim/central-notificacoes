@@ -1,0 +1,5 @@
+node_modules
+dist
+yarn-error.log
+
+npm install eslint --save-dev
